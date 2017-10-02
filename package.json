@@ -1,0 +1,8 @@
+{
+  "name": "pdc-publication-schema",
+  "version": "0.0.0",
+  "description": "JSON Schema for Public Domain Chronicle publications",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "repository": "publicdomainchronicle/pdc-publication-schema",
+  "license": "Apache-2.0"
+}

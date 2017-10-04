@@ -54,7 +54,7 @@
         },
         "uniqueItems": true
       },
-      "legal": {
+      "grant": {
         "type": "string",
         "enum": [
           "1.0.0"
@@ -64,7 +64,7 @@
     "required": [
       "title",
       "finding",
-      "legal"
+      "grant"
     ],
     "additionalProperties": false,
     "definitions": {

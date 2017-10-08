@@ -4,5 +4,12 @@
   "description": "JSON Schema for Public Domain Chronicle publications",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "repository": "publicdomainchronicle/pdc-publication-schema",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "devDependencies": {
+    "ajv": "^5.2.3",
+    "semver": "^5.4.1"
+  }
 }
